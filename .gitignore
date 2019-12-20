@@ -1,3 +1,4 @@
 .*.sw*
 .idea/
 *.iml
+cmake-build-debug/
