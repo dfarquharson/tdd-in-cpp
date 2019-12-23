@@ -22,12 +22,16 @@
 
 ## Tools
 - [ ] CMake
-- [ ] Valgrind
+
+### Dynamic Analysis
+- [ ] [Valgrind](http://www.valgrind.org/)
+- [ ] [sanitizers](https://github.com/google/sanitizers)
 
 ## Libraries
 - [eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page)
 - [boost](https://www.boost.org/)
 - [openframeworks](https://openframeworks.cc/)
+- [cpp-taskflow](https://github.com/cpp-taskflow/cpp-taskflow)
 
 ## Meta-Reference
 - [awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp)

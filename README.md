@@ -16,3 +16,6 @@ Getting going with a TDD flow in C++
 - [ ] IDE evaluation
   - [ ] vim
   - [ ] CLion
+- [ ] get a better understanding of CMake
+  - [ ] wtf?
+  - [ ] use it on the command line
