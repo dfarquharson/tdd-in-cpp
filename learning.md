@@ -40,3 +40,4 @@
 
 ## TODO
 - [ ] get openframeworks working from CMake and CLion
+- [ ] take a self-guided, test-driven tour of the STL (using cpp-reference?)
