@@ -24,6 +24,14 @@ TEST_CASE("Subtraction works", "[subtraction]") {
     REQUIRE(1 - 1 == 0);
 }
 
+TEST_CASE("Division works", "[division]") {
+    REQUIRE(2 / 2 == 1);
+    REQUIRE(3 / 2 == 1);
+    REQUIRE(3 % 2 == 1);
+    REQUIRE(5 / 2 == 2);
+    REQUIRE(5 % 2 == 1);
+}
+
 // Playing with templates
 
 template<typename T>
