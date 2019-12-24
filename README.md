@@ -1,6 +1,9 @@
 # TDD in C++
 Getting going with a TDD flow in C++
 
+## Running These Tests
+`make test`
+
 ## TODO
 - [ ] evaluate testing frameworks
   - [ ] catch2
