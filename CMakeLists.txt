@@ -9,4 +9,5 @@ add_executable(
         intro-to-catch.cpp
         intro-to-fakeit.cpp
         cpp-in-y-minutes.cpp
-        intro-to-stl.cpp)
+        intro-to-stl.cpp
+)
