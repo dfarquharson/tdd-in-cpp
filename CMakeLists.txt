@@ -6,7 +6,7 @@ set(CMAKE_CXX_STANDARD 17)
 add_executable(
         cpp_playground
         main.cpp
-        dsjf-intro-to-catch.cpp
-        dsjf-intro-to-fakeit.cpp
+        intro-to-catch.cpp
+        intro-to-fakeit.cpp
         cpp-in-y-minutes.cpp
-)
+        intro-to-stl.cpp)
